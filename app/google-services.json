@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925408403819",
+    "firebase_url": "https://kalkulator-recepturowy.firebaseio.com",
+    "project_id": "kalkulator-recepturowy",
+    "storage_bucket": "kalkulator-recepturowy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925408403819:android:95953eacfec4a984262c2e",
+        "android_client_info": {
+          "package_name": "com.jakubolszewski.kalkulatorrecepturowy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925408403819-89ma1s5cbj56m5646hdp506s4bir6t57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDX9F1GpJLM-ECTFfbtbu8LH6coQQAsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925408403819-89ma1s5cbj56m5646hdp506s4bir6t57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
